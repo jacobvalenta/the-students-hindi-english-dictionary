@@ -124,10 +124,10 @@ p. 129
 ताड़क, m. a reprover, chastiser.
 ताड़ङ्ग, m. an ear ornament.
 ताड़न, m. beating, whipping, punishment.
-ताड़ना, m. beating, whipping, punishment.
-ताड़ना, v. to understand, comprehend.
-ताड़नीय, adj. reproveable.
-ताड़ी, f. juice of the palm tree.
+ताड़ना, m. beating, whipping, punishment.
+ताड़ना, v. to understand, comprehend.
+ताड़नीय, adj. reproveable.
+ताड़ी, f. juice of the palm tree.
 ताणडव, m. dancing.
 तातः, adj. venerable, respectable.
 तात, m. father; adj. hot. warm.
@@ -141,9 +141,9 @@ p. 129
 तादात्म्य, m. likeness, similarity.
 तादूश, adv. such like, like him or it.
 तान, f. a tune, stretching, tension, tone.
-तान जोड़ना, v. to crack a joke.
-तान तोड़ना v. to be at tune and sing.
-तान उड़ाना v. to be at tune and sing.
+तान जोड़ना, v. to crack a joke.
+तान तोड़ना v. to be at tune and sing.
+तान उड़ाना v. to be at tune and sing.
 तानपूरा, m. a kind of musical instument.
 ताना, m. the warp in cloth; v. to heat, melt fuse, test (a metal).
 तानी, f. price paid for weaving.
@@ -154,13 +154,13 @@ p. 129
 तापन, m. the sun, heat.
 तापना, v. to bask, to warm.
 तापस, f. religious austerity, penance; m. a devotee.
-ताबड़तोड़, adv. successively, repeatedly.
+ताबड़तोड़, adv. successively, repeatedly.
 तामचीनी, f. enamelled copper.
 ! तामजान, n. m. a native conveyance with two poles attached to both ends and carried over two men's shoulders; a tonjon.
 
 p. 130
 
-तामड़ा, m. an inferior gem, paste stone.
+तामड़ा, m. an inferior gem, paste stone.
 तामरस, m. a lotus, copper, gold.
 तामास, see तमःगुणः.
 तामसिक, adj. dark, irascible, vindictive.
@@ -184,7 +184,7 @@ p. 130
 तारणा, v. to free, absolve from sin.
 तारतम्य, m. distinction.
 तारतार, adv. in shreds or pieces, tattered and torn.
-तारतोड़, m. a kind of needle-work.
+तारतोड़, m. a kind of needle-work.
 तार निकालना, v. to find a clue.
 तार बंधना, v. to be continuel or repeated without interruption.
 तारपतार, adj. dispersed.
@@ -206,7 +206,7 @@ p. 130
 तालव्य, adj. palatal, from the palate.
 ताल से बे ताल होना, v. to be out of tune.
 ताला, m. a lock.
-ताला तोड़ना, v. to break open or force a lock; break into a house.
+ताला तोड़ना, v. to break open or force a lock; break into a house.
 तालाब, n. m. a tank, pond, pool.
 ताली, f. a key, clapping the hands.
 ताली बजाना, v. a. to clap one's hands (in approbation or derision).
@@ -252,7 +252,7 @@ p. 131
 तिनकना, v. to flutter, to palpitate, to fly into passion.
 तिनका, m. a straw, bit of grass.
 तिनके चुन्ना, v. to pick straws, to be intoxicated, insane, mad.
-तिन्तिड़ी, m. the tamarind tree.
+तिन्तिड़ी, m. the tamarind tree.
 तिन्नी, f. a kind of rice.
 तिन्द्र, m. a kind of ebony.
 तिपतिया, adj. (bot.) ternate.
@@ -298,7 +298,7 @@ tiras, n. f. thirst.
 तिलचद्दा, m. a cock-roach.
 तिलचावली, f. mixture of black and grey hair.
 तिलचूरी, f. a kind of sweetmeat.
-तिलड़ा, m. a nacklace of three thrings.
+तिलड़ा, m. a nacklace of three thrings.
 तिलतिल, adv. by little and little.
 तिलतैल, m. sesamum oil.
 ! तिलपिञ्ञ, m. barren sesamum.
@@ -369,7 +369,7 @@ p. 132
 ! तुच्छज्ञान, m. contempt.
 तुझ, pron. thee, thine, of thee.
 तुझे, pron. thee, to thee.
-तुड़ाना, v. a. to cause to break, to rend, to get loose.
+तुड़ाना, v. a. to cause to break, to rend, to get loose.
 तुतलाना, v. to lisp, to speak indistinctly as a child.
 तुत्य, m. blue vitriol.
 तुनकी, f. a fine kind of bread.
@@ -380,7 +380,7 @@ p. 132
 तुन्नवाय, m. a tailor.
 तुपक, f. a musket.
 तुम, pron. you, thou.
-तुमड़ी, f. a snake charmer's pipe.
+तुमड़ी, f. a snake charmer's pipe.
 तुमाई, f. the price of carding.
 तुमाना, v. the cause to be carded.
 तुमुल, m. mingled combat, tumult.
@@ -489,7 +489,7 @@ p. 134
 तेवरस, m. the third year; see तरुस.
 तेवराना, v. to feel giddy, to be faint.
 तेवरी, f. look, countenance, a frown.
-तेवरी चढ़ाना, v. to knit the brow, to frown.
+तेवरी चड़ाना, v. to knit the brow, to frown.
 तेवरी बदलना, v. to change colour or countenance.
 तेवहार, m. a holiday, festival.
 तेवहारी, f. a present made at a festival.
@@ -524,23 +524,23 @@ p. 134
 तोंहीं, adv. exactly then.
 तोइ, n. f. ornamental lace.
 तोटक सवैया, n. m. a particular kind of verse of four lines.
-तोड़, m. the force of a current.
-तोड़ना, v. to break, to tear, to rend.
-तोड़ल, m. a bracelet.
-तोड़वाई, f. price paid for changing coin.
-तोड़वाना, v. to cause to be broken.
-तोड़ा, m. scarcity, want, a purse.
-तोड़ी, f. mustard-seed.
+तोड़, m. the force of a current.
+तोड़ना, v. to break, to tear, to rend.
+तोड़ल, m. a bracelet.
+तोड़वाई, f. price paid for changing coin.
+तोड़वाना, v. to cause to be broken.
+तोड़ा, m. scarcity, want, a purse.
+तोड़ी, f. mustard-seed.
 तोतना, v. to weave tape.
 तोतला, m. stuttering, stammering.
 तोतलाना, v. to lisp.
 तोता, m. a parrot.
 तोप, n. f. a gun, cannon, field-piece.
 तोपखाना, n. m. a battery, artillery.
-तोपड़ा, m. a fly, a kind of pigeon.
+तोपड़ा, m. a fly, a kind of pigeon.
 तोपना, v. to bury, to cover.
-तोबड़ा, m. a bag in which horses eat their corn.
-तोमड़ी, f. a hollowed gourd.
+तोबड़ा, m. a bag in which horses eat their corn.
+तोमड़ी, f. a hollowed gourd.
 तोय, m. water.
 तोयकाम, m. a sort of cane.
 तोयद, m. a fragrant grass.
@@ -649,18 +649,18 @@ p. 136
 थकाना, v. to tire, to weary.
 थकित, adj. wearied.
 थक्का, m. clot, lump.
-थड़ा, n. m. a shopkeeper's seat.
+थड़ा, n. m. a shopkeeper's seat.
 थन, m. udder.
 थनी, f. a blemish in horses.
 थनेला, m. inflamed breasts.
 थनेश्वरी, m. a Brahman of Thaneswar.
 थपक, m. a pat, fap.
 थपकना, v. a. to pot a child to sleep.
-थपड़ा, m. see थपेड़ा.
-थपड़ी, f. clapping hands.
-थपेड़ा, m. a slap, a blow, a box.
-थप्पड़, m. a slap, a blow, a box.
-थमड़ा, adj. thick, corpulent.
+थपड़ा, m. see थपेड़ा.
+थपड़ी, f. clapping hands.
+थपेड़ा, m. a slap, a blow, a box.
+थप्पड़, m. a slap, a blow, a box.
+थमड़ा, adj. thick, corpulent.
 थमना, v. to be seized or caught hold of, to be supported.
 थम्भ, n. m. a prop, pillar, column.
 थर, m. a tiger's den.
@@ -673,7 +673,7 @@ p. 136
 थलकना, v. to palpitate.
 थलचर, m. moving on land.
 थलथलाना, v. to undulate, fluctuate.
-! थलबेड़ा, m. place of abode.
+! थलबेड़ा, m. place of abode.
 थलिया, f. a salver, platter.
 थवई, m. a mason.
 था, irregular pretrite of होना, was.
@@ -707,10 +707,10 @@ p. 136
 थिराना, v. to settle as liquor.
 थुकहाई, adj. base, contemptible.
 थुक्कमथुक्का, n. m. mutual abuse.
-थुड़ दिला, adv. miserly, narrowly.
-थुड़ना, v. to be insufficient or wanting, fall short of, fail.
-थुड़ी, n. f. dishonour, infamy, shame.
-थुड़ी थुड़ी होना, v. to be dishonoured, disgraced.
+थुड़ दिला, adv. miserly, narrowly.
+थुड़ना, v. to be insufficient or wanting, fall short of, fail.
+थुड़ी, n. f. dishonour, infamy, shame.
+थुड़ी थुड़ी होना, v. to be dishonoured, disgraced.
 थुतकारना, to drive away scornfully.
 थुथनी, f. a camel's mouth.
 थुथाना, v. to frown, to scowl.
@@ -718,7 +718,7 @@ p. 136
 थूक, m. spittle.
 थूकना, v. to spit.
 थूणी, f. a pillar, post.
-थूथड़ा, m. mouth.
+थूथड़ा, m. mouth.
 थूथू करना, v. to spit continually.
 थूथू होना, v. to be derided, scorned.
 थूनी, f. a pillar, post.
@@ -734,9 +734,9 @@ p. 137
 थैलिया, f. a purse, bag.
 थोक, m. total amount, heap, ready money, lot, local division of an estate holding.
 थोकदार, n. m. the holder of a thok.
-थोड़ा, adj. few, some, a little.
+थोड़ा, adj. few, some, a little.
 थोडा बहुत, adj. more or less, a little.
-थोड़े दिनों से, adv. for a short time, of late, recently.
+थोड़े दिनों से, adv. for a short time, of late, recently.
 थोतनी, n. f. the mouth or muzzle of a horse, camel, &c.
 थोतरा, adj. bruised, spoiled.
 थोथ, n. m. hollowness, cavity.
@@ -747,7 +747,7 @@ p. 137
 थोपना, v. to prop, to support, to pat.
 थोपियाना, v. to trickle.
 थोपी, f. a box, thump.
-थोवड़ा, n. m. a muzzle, the mouth (in contempt)
+थोवड़ा, n. m. a muzzle, the mouth (in contempt)
 
 द
 
@@ -758,10 +758,10 @@ p. 137
 दई, m. the Deity, destiny.
 दखन, m. the south.
 दखिनी मिरच, n. f. white pepper.
-दगड़, m. a kettle-drum.
-दगड़ना, v. to disbelieve.
-दगड़ा, m. a highway, path.
-दगड़ाना, v. to propel, to roll.
+दगड़, m. a kettle-drum.
+दगड़ना, v. to disbelieve.
+दगड़ा, m. a highway, path.
+दगड़ाना, v. to propel, to roll.
 दगदगा, adj. shining.
 दगदगाना, v. to glow, to twinkle.
 दगदगाहट, f. splendour, twinkling.
@@ -777,9 +777,9 @@ p. 137
 दङ्गा, m. wrangling, rebellion.
 दङ्गेत, adj. mutinous, seditious.
 दट्टा, n. m. a cork, stopper.
-दड़ेड़ा, m. hard rain.
+दड़ेड़ा, m. hard rain.
 दढमुंडा, adj. beardless.
-दढ़ियल, adj. having a long beard.
+दढ़ियल, adj. having a long beard.
 दण्ड, m. a stick, staff, punishment.
 दण्डनीय, adj. punishable.
 दण्डवत्, f. salutation, bow, prostration.
@@ -795,7 +795,7 @@ p. 137
 दत्ता, f. a female given in marriage.
 ददलाना, v. to chide, to snub.
 ददियाल, m. descent, pedigree.
-ददोड़ा, n. m. a swelling or inflammation from a mosquito bite &c., a bump.
+ददोड़ा, n. m. a swelling or inflammation from a mosquito bite &c., a bump.
 दद्रु, m. ringworm, tetter.
 दधकादों, n. m. a festival in honour of Krishna.
 दधि, m. curdled milk.
@@ -841,8 +841,8 @@ p. 138
 दमकना, v. to shine, to glow.
 दमकला, m. a squirt, a fire-engine, pump.
 ! दम चुटना, v. to be choked, suffocated.
-दमड़ा, m. gold, riches.
-दमड़ी, f. eighth of a pice.
+दमड़ा, m. gold, riches.
+दमड़ी, f. eighth of a pice.
 दमदमाना, v. to shake.
 दम देना, v. a. to deceive, to trick.
 दमन, m. a hero, kind of flower.
@@ -892,7 +892,7 @@ p. 139
 
 दरमा, m. a kind of mat.
 दरमाहा, m. monthly wages.
-दरयाइ घोड़ा, n. m. the the Hippopotamus.
+दरयाइ घोड़ा, n. m. the the Hippopotamus.
 दरयाइ नारियल, m. the sea-cocoanut.
 दरशन कारना, v. a. to see, to have an interview, to visit a sacred shrine.
 दरस देखाना, v. a. to show one's face to one.
@@ -967,7 +967,7 @@ p. 139
 दह, m. whirlpool.
 दहक, f. ardour.
 दहकना, v. to burn, be lost.
-दहड़दहड़, m. with fury, energy.
+दहड़दहड़, m. with fury, energy.
 
 p. 140
 
@@ -978,12 +978,12 @@ p. 140
 दहला, n. m. the ten (of cards).
 दहलाना, v. a to terrify, make one fear, tremble with fear.
 दहसेरा, m. weight of ten seers.
-दहाड़ना, n. f. tens, a decimal (Arith.)
+दहाड़ना, n. f. tens, a decimal (Arith.)
 दहाना, v. to roar.
 दहिना, v. to burn.
 दही, adj. right, not left.
-दहेड़, m. thick sour milk.
-दहेंड़ी, m. name of a bird.
+दहेड़, m. thick sour milk.
+दहेंड़ी, m. name of a bird.
 दह्यौ, f. a kind of vessel.
 दक्ष, adj. burning.
 दक्षता, adj. clever, dexterous.
@@ -993,10 +993,10 @@ p. 140
 दक्षिणी, adj. of the Deccan or South.
 दक्षिणीय, adj. meritorious.
 दक्षी, adj. capable, able.
-दांड़, m. fine, punishment.
-दांड़ा, m. limit, boundary.
-दांड़ामेंड़ा, m. boundry, frontier.
-दांड़ी, f. a rower, waterman, a balance.
+दांड़, m. fine, punishment.
+दांड़ा, m. limit, boundary.
+दांड़ामेंड़ा, m. boundry, frontier.
+दांड़ी, f. a rower, waterman, a balance.
 दांत, m. a tooth, tooth of a comb.
 दांत खट्टे करना, to set on edge (the teeth), to baffle, frustrate, discourage.
 दांत तले उंगली दबाना, v. a. to put one's finger between the teeth, a token of astonishment and remorse.
@@ -1009,11 +1009,11 @@ p. 140
 दांताकिलकिल, f. quarrel.
 दांती, f. tooth of a a saw, etc.
 दांती देना, v. a. to cause one to hold his tongue, shut up.
-दांतों चढ़ना, v. to provoke envy.
+दांतों चढ़ना, v. to provoke envy.
 दांय, n. f. the booming of guns
 दांयेबांये, adv. right and left.
 दांव, m. ambuscade, snare.
-दांवपर चढ़ना, v. to bring under one's power, to get a grip in wrestling.
+दांवपर चढ़ना, v. to bring under one's power, to get a grip in wrestling.
 ! दांव पेंच, n. f. trick in wrestling, artifice, trick, stratagem.
 दांव में आना, v. to be tricked, taken in.
 दांव में बैठना, v. to lie in ambush, watch one's opportunity.
@@ -1029,10 +1029,10 @@ p. 140
 दागना, v. to make with a hot iron, to fire a gun.
 दाग लगना, v. to get a bad name.
 दाग लगाना, v. to sully, stain, blacken, defame.
-दाड़िम, m. a pomegranate.
-दाढ़, f. a jaw-tooth.
-दाढ़ा, f. a large tooth, tusk.
-दाढ़ी, f. the beard.
+दाड़िम, m. a pomegranate.
+दाढ़, f. a jaw-tooth.
+दाढ़ा, f. a large tooth, tusk.
+दाढ़ी, f. the beard.
 दात, m. bountifulness.
 दाता, m. a giver, bestower.
 दातुन कुल्ला करना, v. a. to clean one's teeth, to wash the mouth.
@@ -1089,7 +1089,7 @@ p. 141
 दारुण, adj. horrible, frightful.
 दारुमय, adj. made of wood.
 ! दारू, f. spirituous liquor.
-! दारूड़ा, f. spirituous liquor.
+! दारूड़ा, f. spirituous liquor.
 दार्ष्टान्त, m. a prototype.
 दाल, f. pulse, vetches.
 आटा दाल, m. flour and dal, food, livelihood.
@@ -1138,9 +1138,9 @@ p. 142
 दिग्व्यापी, adj. pervading space.
 दिघी, f. a large tank.
 दिठौना, m. a patch, a mole.
-दिढ़, adj. firm, resolute.
-दिढ़ रहना, v. to stand firm, hold one's ground.
-दिढ़ाना, v. to prove, to strengthen.
+दिढ़, adj. firm, resolute.
+दिढ़ रहना, v. to stand firm, hold one's ground.
+दिढ़ाना, v. to prove, to strengthen.
 दिति, f. mother of the Daityas.
 दिधिषु, m. the husband of a widow.
 दिधी, f. firmness, stability.
@@ -1148,7 +1148,7 @@ p. 142
 दिन आना, v. to arrive (the time or seasons); to be numbered (one's days), come (death)
 दिनकर, m. the sun.
 दिन काटना, v. to pass one's days in hardship.
-दिन चढ़े, adv. late in the morning.
+दिन चढ़े, adv. late in the morning.
 दिन दिन, adv. day by day, everyday.
 दिनपात, m. support, occupation.
 दिन फिरना, v. to take a favourable turn, to prosper after adversity.
@@ -1221,7 +1221,7 @@ p. 143
 दीक्षित, adj. initiated, performed.
 दुःख, m. pain ache, grief.
 दुःखकर, adj. causing pain or grief.
-दुःखड़ा, m. misfortune, suffering.
+दुःखड़ा, m. misfortune, suffering.
 दुःखवाई, adj. giving pain, trouble some.
 दुःखना, v. to ache, to pain.
 दुःखाना, v. to give pain.
@@ -1235,13 +1235,13 @@ p. 143
 दुःसाध्य, adj. difficult, arduous.
 ! दुअर्यी, adj. ambiguous, equivocal, doubtful.
 दुअक्षी, n. f. a two-anna silver piece.
-दुकड़ा, m. the fourth of a pice.
-दुकड़ी, f. a snuffle, two of anything.
+दुकड़ा, m. the fourth of a pice.
+दुकड़ी, f. a snuffle, two of anything.
 दुकन्दार, n. m. a shop-keeper.
 दुकान, f. a shop.
 दुकान खोलना, v. to open a shop, to set out a shop.
 दुकान कारना, v. to open a shop, to set out a shop.
-दुकान बढ़ाना, v. a. to close a shop.
+दुकान बढ़ाना, v. a. to close a shop.
 दुकान बंद करना, v. a. to close a shop.
 दुकान चलना, v. to do a good business, to be in a flourishing state (a shop).
 दुकान लगाना, v. to display the wares of a shop.
@@ -1251,7 +1251,7 @@ p. 143
 ! दुख भोगना, v. to labour, toil, suffer.
 दुखरा रोना, v. to tell the story of one's suffering, to narrate one's sorrows.
 दुखसुख, m. pain and pleasure.
-दुगाड़ा, n. m. a double-barrelled gun.
+दुगाड़ा, n. m. a double-barrelled gun.
 दुगुणा, adj. twofold, double.
 ! दुध, m. milk.
 दुचित, adj. of two minds, wavering.
@@ -1329,7 +1329,7 @@ p. 144
 ! दुर्वाक्य, m. censure, abuse, ill-speaking.
 दुर्वृत, adj. vile, wicked.
 दुलकी, f. a trot (of a horse).
-दुलड़ा, adj. twofold.
+दुलड़ा, adj. twofold.
 दुलत्ती, f. a kick from the hind legs of an animal.
 दुलहन, f. a bride.
 दुलहा, m. bridegroom.
@@ -1373,7 +1373,7 @@ p. 144
 दूध पीना, v. to drink milk, to suck.
 दूध पूत, n. wealth and children.
 दूधमा, n. f. foster mother.
-दूधहंड़ी, n. f. an earthen vessel for holding milk.
+दूधहंड़ी, n. f. an earthen vessel for holding milk.
 दूधिया, adj. milky, juicy as plants.
 दूधी, adj. milky, juicy as plants.
 दूनकी लेना, v. to boast, to brag.
@@ -1399,9 +1399,9 @@ p. 145
 दूसरा, adj. second, other, m. an equal.
 दूहिया, m. a kind of fire-place.
 ! दृग, m. the eye.
-! दृढ़, adj. hard, firm, solid.
-! दृढ़ता, f. firmness, hardness.
-! दृढ़ना, v. to strengthen, to prove.
+! दृढ़, adj. hard, firm, solid.
+! दृढ़ता, f. firmness, hardness.
+! दृढ़ना, v. to strengthen, to prove.
 ! दृश्य, adj. visible, to be seen.
 ! दृष्ट, adj. seen, visible.
 ! दृष्टकूट, m. a riddle, enigma.
@@ -1409,7 +1409,7 @@ p. 145
 ! दृषटि, f. the eye-sight.
 ! दृष्टिदोष, n. m. the influence or blight of an evil eye.
 ! दृष्टिपात, m. a look, glance.
-देआड़ा, m. a white-ant hill.
+देआड़ा, m. a white-ant hill.
 देखते देखते, adv. before one's eyes, in one's presence.
 देखते रहना, v. to look after, to keep watch.
 देखना, v. to see, to look.
@@ -1456,7 +1456,7 @@ p. 145
 देवालेई, f. barter, traffic.
 देवी, f. a goddess, queen.
 देश, m. a country, region.
-देश छोड़ना, v. to leave one's country or home, to emigrate.
+देश छोड़ना, v. to leave one's country or home, to emigrate.
 देश जाना, v. to go home, to one's country.
 देश देश फिरना, v. to travel about, to see the world.
 ! देशमात्र adv. everywhere.
@@ -1495,7 +1495,7 @@ p. 146
 दोऊ, adj. both.
 दोक, m. a two year old foal.
 दोगला, n. m. a mongrel, half bred, bastard.
-दोगाड़ा, m. a double-barrelled gun
+दोगाड़ा, m. a double-barrelled gun
 दोगाना, adj. twofold, doubled.
 दोजीवा, adj. pregnant.
 दोझा, adj. married to a second wife.
@@ -1520,8 +1520,8 @@ p. 146
 दोषी, adj. guilty, criminal.
 दोसाद, m. a low caste of Hindus.
 दोस्त, n. m. a friend.
-दोहड़िका, f. kind of metre.
-दोहत्तड़, f. a slap with both hands.
+दोहड़िका, f. kind of metre.
+दोहत्तड़, f. a slap with both hands.
 दोहता, m. a daughter's son.
 दोहती, f. daughter's daughter.
 दोहद, m. wish, desire.
@@ -1529,24 +1529,24 @@ p. 146
 दोहना, v. to milk.
 दोहनी, f. a milk vessel.
 दोहर, m. a double sheet.
-दोहत्थड़, m. beating with both hands.
+दोहत्थड़, m. beating with both hands.
 दोहरा, m. a distich; adj. double.
 दोहराना, v. to repeat, say or do again, to revise.
 दोहराव, m. repetition, doubling.
 दोहा, m. a couplet.
 दोहाई, see दुहाई.
 दोहान, m. a young bullock.
-दौंगड़ा, m. a heavy shower.
-दौड़, f. run, attack, course.
-दौड़धूप, n. f. hard labour and toil, toil and trouble.
-दौड़ना, v. to run, to gallop.
-दौड़ा, m. a large basket.
-दौड़ाक, m. a racer, runner.
-दौड़ादौड़ी, f. running, race.
+दौंगड़ा, m. a heavy shower.
+दौड़, f. run, attack, course.
+दौड़धूप, n. f. hard labour and toil, toil and trouble.
+दौड़ना, v. to run, to gallop.
+दौड़ा, m. a large basket.
+दौड़ाक, m. a racer, runner.
+दौड़ादौड़ी, f. running, race.
 
 p. 147
 
-दौड़ाहा, m. a runner, messenger.
+दौड़ाहा, m. a runner, messenger.
 दौना, see दोना।
 दौरा, m. tour, circuit, sessions, large basket.
 दौरात्म्य, m. wickedness.
@@ -1616,32 +1616,32 @@ p. 147
 धक्का, m. a shove, push.
 धक्का, देना, v. a. to shove, push, drive out.
 धक्का लगना, v. to suffer a shock.
-धगड़ा, m. paramour.
+धगड़ा, m. paramour.
 धगोलना, v. to roll, to wallow.
 धज, m. shape, form, posture.
 धजभङ्ग, m. impotency.
 धजा, f. a flag, a banner.
 धजीला, adj. good-looking.
 धज्जी, f. a slip of cloth.
-धज्जी उड़ाना, v. to tear into pieces, punish, to beat black and blue, to expose one.
-धुर्रा उड़ाना, v. to tear into pieces, punish, to beat black and blue, to expose one.
-धड़, m. the body.
-धड़क, f. fear, palpitation.
+धज्जी उड़ाना, v. to tear into pieces, punish, to beat black and blue, to expose one.
+धुर्रा उड़ाना, v. to tear into pieces, punish, to beat black and blue, to expose one.
+धड़, m. the body.
+धड़क, f. fear, palpitation.
 
 p. 148
 
-धड़कन, n. f. palpitation, throbbing.
-धड़कना, v. to palpitate.
-धड़का, m. fear, doubt, alarm.
-धड़काना, v. to frighten, alarm.
-धड़क्का, adj. alarming, bullying.
-धड़धड़ाना, v. to papitate.
-धड़वा, m. a kind of bird.
-धड़ा, m. a party, a weight.
-धड़ा करना, v. to balance, equipoise.
-धड़ाका, m. a crash, explosion.
-धड़ाम, n. the sound of a heavy body falling into water or on soft ground.
-धड़ी, f. a line, a weight.
+धड़कन, n. f. palpitation, throbbing.
+धड़कना, v. to palpitate.
+धड़का, m. fear, doubt, alarm.
+धड़काना, v. to frighten, alarm.
+धड़क्का, adj. alarming, bullying.
+धड़धड़ाना, v. to papitate.
+धड़वा, m. a kind of bird.
+धड़ा, m. a party, a weight.
+धड़ा करना, v. to balance, equipoise.
+धड़ाका, m. a crash, explosion.
+धड़ाम, n. the sound of a heavy body falling into water or on soft ground.
+धड़ी, f. a line, a weight.
 धतकारना, v. a. to drive out.
 धतिनगर, adj. ignoble, spurious.
 धतूरा, m. name of a plant.
@@ -1687,7 +1687,7 @@ p. 148
 धन्वन्तरि, m. a physician of the gods.
 धन्वी, m. a bowman, archer.
 धप, m. voice, sound.
-धपाड़, m. race, running.
+धपाड़, m. race, running.
 धप्पा, m. stain on cloth, a blow.
 धब्बा, n. m. spot, stain, brand, slur.
 धब्बा लगना, v. to be branded, stained.
@@ -1699,10 +1699,10 @@ p. 148
 धमकाहट, f. threat, menace.
 धमकि, n. f. threat, menace.
 धमकी में आना, v. to be frightened by one's threats.
-धमधूसड़, adj. corpulent.
+धमधूसड़, adj. corpulent.
 धमनी, f. a vein, artery.
 धमाका, m. a report of cannon.
-धमाचौकड़ी, f. noise, tumult.
+धमाचौकड़ी, f. noise, tumult.
 धमाधम, m. sound of stamping.
 धमाल, m. a kind of song.
 धमोका, m. a kind of tambourine.
@@ -1777,7 +1777,7 @@ p. 149
 धायमारना, v. to cry, to groan.
 धार, f. a line, stream, sharpness.
 धारक, m. a debtor.
-धार चढ़ाना, v. to pour a libation of milk, suger, &c.
+धार चढ़ाना, v. to pour a libation of milk, suger, &c.
 धार देना, v. to pour a libation of milk, suger, &c.
 धारण, m. holding, having, keeping.
 धारणा, f. fortitude, firmness.
@@ -1825,8 +1825,8 @@ p. 150
 धुंधलाई, f. dimness, mistiness.
 धुंधेला, adj. knavish.
 धुआंना, v. to be filled with smoke.
-धुकड़पुकड़, f. agitation, palpitation.
-धुकड़ी, f. a purse.
+धुकड़पुकड़, f. agitation, palpitation.
+धुकड़ी, f. a purse.
 धुकधुकी, f. anxiety, apprehension, the depression in the middle of the breast.
 धुत, intj. tut, be off, go away.
 धुत्ता, m. trick, deception.
@@ -1863,7 +1863,7 @@ p. 150
 धूप, m. incense; f. sunshine.
 धूपकाला, m. the hot season.
 धूप खाना, v. to bask in the sun.
-धूपघड़ी, f. a sun-dial.
+धूपघड़ी, f. a sun-dial.
 धूपछांह n. m. shot silk (a cloth).
 धूपदानी, n. f. a pot in which incense is burnt.
 धूपना, v. to smear with pitch.
@@ -1893,7 +1893,7 @@ p. 151
 दोंधा, m. a mound of earth.
 धोआ, m. a present of fruit.
 धोई, f. husked pulse.
-धोकड़, adj. robust, athletic.
+धोकड़, adj. robust, athletic.
 धोखा, m. deceit, deception.
 धोखा खाना, v. to be taken in, to be cheated, misled.
 धोखे में आना, v. to be taken in, to be cheated, misled.
@@ -1948,18 +1948,18 @@ p. 151
 न, the 20th Nāgarī consonant.
 नंग, n. m. disgrace, infamy.
 नंगटा, adj. naked.
-नंगधड़ंग, adj. stark naked.
+नंगधड़ंग, adj. stark naked.
 नंगा करना, v. to take off one's clothing, to strip, to bare.
 नंगा होना, v. to be naked.
 नंगी तरवार, n. f. a drawn sword.
 नंगे पांव, adj. barefoot.
 नक, (in comp.) nose.
 नक घिसनी करना, v. a. to beg, entreat.
-नकचढ़ा, adj. fretful, ill tempered, imperious, haughty, angry, passionate.
+नकचढ़ा, adj. fretful, ill tempered, imperious, haughty, angry, passionate.
 ! नकचिमटी, n. f. small pincers.
 नकटा, adj. nose clipt, noseless.
-नकड़ा, m. inflammation in the nose.
-नकतोड़ा, adj. droll, roguish.
+नकड़ा, m. inflammation in the nose.
+नकतोड़ा, adj. droll, roguish.
 
 p. 152
 
@@ -1967,7 +1967,7 @@ p. 152
 नकल करना, v. a. to make a copy, to represent, to act.
 नकली, adj. fabricated, counterfeit, false.
 नकशा, n. m. features, visage.
-नकशा बिगड़ना, v. to be put out of countenance.
+नकशा बिगड़ना, v. to be put out of countenance.
 नकसीर, f. veins of the nose.
 नकार, m. denial, refusal.
 नकारना, v. to deny, refuse.
@@ -1984,7 +1984,7 @@ p. 152
 नक्र, m. the nose, an alligator.
 नक्रराज, m. a shark.
 नख, m. a finger or toe nail.
-नखड़ा, n. m. pretence, affectation, coquetry.
+नखड़ा, n. m. pretence, affectation, coquetry.
 नखरेखा, f. nails marks, a scratch.
 नखसिख से, adv. from top to toe, throughout.
 नखियाना, v. to claw, to scratch.
@@ -2002,9 +2002,9 @@ p. 152
 नगरवर्त्ती, m. a citizen.
 नगरी, f. a town, a city.
 नगरोपान्त, m. suburbs of a town.
-नगाड़ा, n. m. a kettledrum.
+नगाड़ा, n. m. a kettledrum.
 नगीना, m. a precious stone of a finger ring.
-नगीना जड़ना, v. a. to set a stone.
+नगीना जड़ना, v. a. to set a stone.
 नङ्ग, adj. naked; m. a naked mendicant.
 नग्न, adj. naked; m. a naked mendicant.
 नचवाना, v. to make dance.
@@ -2022,8 +2022,8 @@ p. 152
 ! नटविद्या, n. f. the art of rope-dancing.
 नटिन, f. a female rope-dancer.
 नटी, f. a dancing girl, actress.
-नड़, m. a kind of reed.
-नड़ा, n. m. the hard inner potion of a carrot.
+नड़, m. a kind of reed.
+नड़ा, n. m. the hard inner potion of a carrot.
 नत, adj. bent protstrate, reclined.
 नति, f. curvature, crookedness.
 नतिनी, f. a daughter's daughter.
@@ -2040,6 +2040,89 @@ p. 152
 ननिहाल, f. maternal grandfather's family.
 नन्दन, m. a son, delighting.
 नन्दिनी, f. wife's sister.
+
+p. 153
+
+नन्दिया, n. f. a small earthen pan.
+नन्दोई, m. a husband's sister's husband.
+नन्दोला, m. an earthen vessel.
+नन्हा, adj. small, neat, tiny; m. a darling, child.
+नपना, v. to be measured.
+नपुंसक, m. a eunuch, neuter gender.
+नपूता, adj. childless, having no son.
+नफा, n. m. profit.
+नभ, m. the sky, atmosphere.
+नभचर, adj. aerial, m. a bird, a cloud.
+नमः, m. salutation, obeisance.
+नमक, n. m. salf, savour, flavour.
+कटे पार नमक डालना, v. to put salt on a wound; to pile agony on agony.
+नमक मिरच लगाना, v. a. to give a relish, to give vividness to a description.
+नमकहराम, adj. ungratefule, disloyal.
+नमकहरामी, f. ingratitude, disloyalty.
+नमकहलाल, adj. grateful, loyal.
+नमकीन, f. pickled lemons salted; adj. seasoned with salt.
+नमदा, n. m. felt.
+नमन, adj. bending, bowed.
+नमस्कार, m. salutation, adoration.
+नमूना, n. m. model, pattern.
+नम्र, adj. bending, courteous.
+नय, f. way, manner, mode.
+नयन, m. the eye.
+नयना, f. pupil of the eye.
+नया, adj. new, anew, afresh.
+नया जन्म लेना, v. to be born again, to get new life (as it were)
+नये सिर से, adv. from the beginning, over again.
+नर, m. man, a male.
+नरक, m. hell.
+नरक कुंड, n. m. a pit in hell.
+नरकट, m. a kind of reed.
+नरक में पड़ना, v. to go to hell.
+नरपति, m. a king, ruler.
+नरपुर, m. the earth, the world.
+नरम, adj. soft.
+नरमा, n. m. cotton-plant.
+नरमाना, v. to soften.
+नरमेध, m. a human sacrifice.
+नरसिंगा, m. a horn, wind instrument.
+नरसिंह, m. an incarnation of Vishṇu.
+नरसों, m. the 4th day past or to come.
+नरहड़, m. shank, leg.
+नराधम, m. a low person, a wretch.
+नरिया, f. a tile.
+नरी, f. a kind of leather, sheep skin.
+नरुख, adj. male, masculine.
+नरेट, m. throat, windpipe.
+नरेटी, f. throat, windpipe.
+नरेटी दबाना, v. a. to squeeze one's throat.
+नरेन्द्र, m. a king, a ruler.
+नरेश, m. an actor, juddler.
+नर्त्तक, m. dancing, acting.
+नर्त्तन, m. dancing, acting.
+नल, m. a reed, a tube, a spout.
+नला, m. the urinary ducts.
+नलिका, f. a perfume.
+नलिन, m. lotus or water-lily.
+नलिनी, f. a place abounding in lotuses.
+नलिया, m. a bird-catcher.
+नली, f. a tube, pipe, gun-barrel.
+नलूवा, m. a tube, joint of bamboo.
+नव, adj. new, nine.
+नवखण्ड, m. the 9 divisions of the world.
+नवग्रह, m. the nine planets.
+नवद्वार, m. having nine doors.
+नवनिधि, f. the treasure of Kuver.
+नवनी, f. fresh butter.
+नवबधू, f. a newly married woman.
+नवबालि, f. a girl after puberty.
+नवम, adj. ninth.
+नवमी, f. the 9th day of a lunar half month.
+नवयौवना, f. a young woman.
+नवरब, m. a kind of ornament.
+नवल, adj. beautiful; m. a sapling.
+नवला, f. a girl, a woman.
+नवा, adj. new.
+नवाड़ा, m. a boat, barge.
+नवाना, v. to bend, to bow.
 
 p. 195
 
