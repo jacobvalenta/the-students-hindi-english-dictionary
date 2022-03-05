@@ -23,10 +23,10 @@ p. 128
 तरेत, m. a buoy.
 तरैया, f. a star.
 तर्क, m. doubt, discussion.
-तर्कविद्या f. science of logic.
+तर्कविद्या, f. science of logic.
 तर्कित, adj. doubtful, disputatious.
 तर्की, m. a logician.
-तर्कु f. a spindle, distaff.
+तर्कु, f. a spindle, distaff.
 तर्कुटी, f. a spindle, distaff.
 तर्कुल, m. a kind of fruit.
 तर्खा, adj. rapid (as a stream).
@@ -142,8 +142,8 @@ p. 129
 तादूश, adv. such like, like him or it.
 तान, f. a tune, stretching, tension, tone.
 तान जोड़ना, v. to crack a joke.
-तान तोड़ना v. to be at tune and sing.
-तान उड़ाना v. to be at tune and sing.
+तान तोड़ना, v. to be at tune and sing.
+तान उड़ाना, v. to be at tune and sing.
 तानपूरा, m. a kind of musical instument.
 ताना, m. the warp in cloth; v. to heat, melt fuse, test (a metal).
 तानी, f. price paid for weaving.
@@ -206,7 +206,7 @@ p. 130
 तालव्य, adj. palatal, from the palate.
 ताल से बे ताल होना, v. to be out of tune.
 ताला, m. a lock.
-ताला तोड़ना, v. to break open or force a lock; break into a house.
+* ताला तोड़ना, v. to break open or force a lock; break into a house.
 तालाब, n. m. a tank, pond, pool.
 ताली, f. a key, clapping the hands.
 ताली बजाना, v. a. to clap one's hands (in approbation or derision).
@@ -256,7 +256,7 @@ p. 131
 तिन्नी, f. a kind of rice.
 तिन्द्र, m. a kind of ebony.
 तिपतिया, adj. (bot.) ternate.
-तिबारा, m. a room with three doors; thrice.
+* तिबारा, m. a room with three doors; thrice.
 तिचासी, adj. three days' old, stale.
 तिमि, m. a fabulous fish.
 तिमिङ्गिल, m. a fabulous fish.
@@ -406,7 +406,7 @@ p. 133
 तुरुम, m. the stocks, shackles.
 तुर्त्त, adv. instantly, direclty.
 तुर्त्तुरा, adj. nimble, active.
-तुल, se तुल्य.
+तुल, see तुल्य.
 तुलतुलाना, v. to become soft.
 तुलना, v. to be weighed.
 तुलवाना, v. to cause to be weighed.
@@ -426,14 +426,14 @@ p. 133
 तुष्णीभूत, adv. silently, secretly.
 तूंतां, m. dispute, wrangling.
 तूंबा, m. a hollowed gourd.
-तू pron. thou, thee.
+तू, pron. thou, thee.
 तूकारना, v. to thou, to abuse.
 तूण, m. a quiver, a tree.
 तूणीर, m. a quiver.
 तूतई, f. a vessel with a spout.
 तूतन, m. chips, clippings.
 तूतिया, m. blue vitriol.
-तून, m. a quiver; the toon tree.
+* तून, m. a quiver; the toon tree.
 तूमना, v. to card (cotton or wool).
 तूमरी, f. snout of a crocodile.
 तूमिया, m. thread made of carded cotton.
@@ -460,14 +460,14 @@ p. 133
 तेगा, n. m. a short broad scimitar.
 तेज, m. ardour, splendour, strength; adj. sharp, clever, pungent.
 तेजपात, m. leaf of the Laurus cassia.
-तेजवान adj. glorious, magestic, venerable.
+तेजवान, adj. glorious, magestic, venerable.
 तेजस्वी, adj. glorious, magestic, venerable.
 तेजस, m. see तेज.
 तेजस्कर, adj. restorative.
 तेजस्वी, adj. glorious, luminous, famous.
 तेजोमय, adj. florious, luminous, famous.
 तेजाब, n. m. an acid.
-तेता adv. so much, this much.
+तेता, adv. so much, this much.
 तेताला, adj. three-storied.
 तेपची, f. a kind of stitch.
 तेमन, m. moisture, damp.
@@ -494,7 +494,7 @@ p. 134
 तेवहार, m. a holiday, festival.
 तेवहारी, f. a present made at a festival.
 तेवों, adv. so, as, then.
-तेवोंधा, dim-sighted.
+* तेवोंधा, dim-sighted.
 तेह, m. anger, passion.
 तेहर, m. an ankle ornament.
 तेहरा, adj. three-fold, triplicate.
@@ -555,7 +555,7 @@ p. 134
 तोहि, pron. to or for thee.
 तौंसना, v. to be overcome by heat.
 तौ, adv. then, yes, well, yet.
-तौन, correl. to जौन; that.
+* तौन, correl. to जौन; that.
 तौनी, n. f. a small iron pan.
 तौल, m. weight.
 
@@ -581,7 +581,7 @@ p. 135
 त्राण, m. safety, deliverance.
 त्राणी, m. a saviour.
 त्राता, m. a saviour.
-त्रास m. fear, alarm.
+त्रास, m. fear, alarm.
 त्रासा, adj. afraid.
 त्रसित, adj. afraid.
 त्राह, interj. mercy! save!
@@ -635,7 +635,7 @@ p. 135
 
 थ
 
-थ, the 17th Nāgarī consonant
+* थ, the 17th Nāgarī consonant
 थंब, m. a pillar, post.
 थंभना, v. to stop, to be upheld.
 
@@ -676,7 +676,7 @@ p. 136
 ! थलबेड़ा, m. place of abode.
 थलिया, f. a salver, platter.
 थवई, m. a mason.
-था, irregular pretrite of होना, was.
+* था, irregular pretrite of होना, was.
 थांग, f. a den of thieves.
 थांगी, m. receiver of stolen goods.
 थांभ, m. a post, pillar, prop.
@@ -711,7 +711,7 @@ p. 136
 थुड़ना, v. to be insufficient or wanting, fall short of, fail.
 थुड़ी, n. f. dishonour, infamy, shame.
 थुड़ी थुड़ी होना, v. to be dishonoured, disgraced.
-थुतकारना, to drive away scornfully.
+* थुतकारना, to drive away scornfully.
 थुथनी, f. a camel's mouth.
 थुथाना, v. to frown, to scowl.
 थू, interj. an imitative word for the sound of spitting.
@@ -751,7 +751,7 @@ p. 137
 
 द
 
-द, the 18th Nāgarī consonant.
+* द, the 18th Nāgarī consonant.
 दंश, m. a gadfly, a tooth.
 दंशक, m. a snake.
 दंशन, m. biting, stinging.
@@ -818,7 +818,7 @@ p. 138
 दपटना, v. to gallop, to rebuke.
 दपदपाना, v. to shine.
 दबक जाना, v. to skulk or sneak away.
-दबकना, v to lurk, to lie in wait.
+दबकना, v. to lurk, to lie in wait.
 दबकर, f. a trap.
 दबकाना, v. to snub, sheck, conceal.
 दबकी, f. ambush.
@@ -836,7 +836,7 @@ p. 138
 दबोचना, v. to strangle, seize by the throat.
 दबोस, m. a flint.
 दबोसना, v. to tope, to tipple.
-दम, n. m. breath, life; taming, subduing.
+* दम, n. m. breath, life; taming, subduing.
 दमक, n. f. glitter, flush, bloom; m. a tamer.
 दमकना, v. to shine, to glow.
 दमकला, m. a squirt, a fire-engine, pump.
@@ -859,7 +859,7 @@ p. 138
 दमामा, m . a kettle-drum.
 दम्पती, n. husband and wife.
 दम्भ, m. pride.
-दम्भीम adj. proud.
+दम्भीम, adj. proud.
 दम्य, adj. tamed, subdued.
 दया, f. mercy, favor, pity.
 दयाकर, adj. kind, merciful.
@@ -987,7 +987,7 @@ p. 140
 दह्यौ, f. a kind of vessel.
 दक्ष, adj. burning.
 दक्षता, adj. clever, dexterous.
-दक्षिण, m. right; the south.
+* दक्षिण, m. right; the south.
 दक्षिणा, f. a fee or gift to Brahmans.
 दक्षिणायन, m. southern declination.
 दक्षिणी, adj. of the Deccan or South.
@@ -998,7 +998,7 @@ p. 140
 दांड़ामेंड़ा, m. boundry, frontier.
 दांड़ी, f. a rower, waterman, a balance.
 दांत, m. a tooth, tooth of a comb.
-दांत खट्टे करना, to set on edge (the teeth), to baffle, frustrate, discourage.
+* दांत खट्टे करना, to set on edge (the teeth), to baffle, frustrate, discourage.
 दांत तले उंगली दबाना, v. a. to put one's finger between the teeth, a token of astonishment and remorse.
 दांतन, m. a tooth brush.
 दांत निकलना, v. to teethe, to come out (the teeth).
@@ -1358,7 +1358,7 @@ p. 144
 दुहिता, f. a daughter.
 दुहितुपति, m. a daughter's husband.
 दुहेला, adj. difficult, weighty.
-दूज f. the 2nd day of a lunar fortnight.
+दूज, f. the 2nd day of a lunar fortnight.
 दूज का चांद, m. the new moon, any thing scarce or rare.
 दूजबर, m. a bigamist.
 दूजा, adj. second, other.
@@ -1864,7 +1864,7 @@ p. 150
 धूपकाला, m. the hot season.
 धूप खाना, v. to bask in the sun.
 धूपघड़ी, f. a sun-dial.
-धूपछांह n. m. shot silk (a cloth).
+धूपछांह, n. m. shot silk (a cloth).
 धूपदानी, n. f. a pot in which incense is burnt.
 धूपना, v. to smear with pitch.
 ! धूम, m. smoke, f. noise, tumult.
@@ -2722,7 +2722,7 @@ p. 161
 नूपुर, m. ornament for the ankle.
 नृ, m. man.
 नृत्य, m. dancing, acting.
-नृत्यकम m. dancer.
+नृत्यकम, m. dancer.
 नृत्य करना, to dance.
 नृप, m. a king.
 नृवराह, m. an incarnation of Vishnu.
@@ -3103,7 +3103,7 @@ p. 165
 पदाति, m. a footman.
 पदाना, v. to cause to let wind; to tire, fatigue.
 पदार्थ, m. thing, matter, rarity.
-पदार्थविद्या n. f. natural philosophy.
+पदार्थविद्या, n. f. natural philosophy.
 
 p. 166
 
@@ -4899,7 +4899,7 @@ p. 195
 बहुरि, adv. again.
 बहुरिया, f. a daughter-in-law.
 बहुरी, n. f. parched barley.
-बहुरूपा m. chameleon.
+बहुरूपा, m. chameleon.
 बहुरूपिया, m. an actor, mimic.
 बहुरूप्य, m. mimicry.
 बहुर्ना, v. to return, come back.
