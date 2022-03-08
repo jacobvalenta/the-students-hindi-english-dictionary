@@ -1145,7 +1145,7 @@ p. 142
 दिधिषु, m. the husband of a widow.
 दिधी, f. firmness, stability.
 दिन, m. day.
-दिन आना, v. to arrive (the time or seasons); to be numbered (one's days), come (death)
+दिन आना, v. to arrive (the time or seasons); to be numbered (one's days), come (death).
 दिनकर, m. the sun.
 दिन काटना, v. to pass one's days in hardship.
 दिन चढ़े, adv. late in the morning.
@@ -3170,7 +3170,7 @@ p. 166
 पयोधर, m. woman's breast.
 पयोधि, m. the sea, ocean.
 पर, adj. far, distant; m. feather, wing, a quill.
-पर, a prefix signifying beyond, remote, another; prep. over, above, but, yet, on, upon.
+* पर, a prefix signifying beyond, remote, another; prep. over, above, but, yet, on, upon.
 परकना, see परखना.
 परकाजी, adj. helping others, beneficent.
 परकाना, v. to accustom.
@@ -4675,7 +4675,7 @@ p. 184
 पङ्गा, m. a grasshopper.
 फटकन, n. f. husk, chaff.
 
-P. 185
+p. 185
 
 फटकना, v. to winnow, to dust.
 फटकार, n. m. the sound of a lash in the air, in winnowing &c.
@@ -4836,7 +4836,7 @@ p. 186
 फुनगी, f. a sprout, a bud.
 फुनङ्ग, f. top, summit.
 फुनसी, f. a pimple.
-फुनिया f. penis puerilis.
+फुनिया, f. penis puerilis.
 फुन्दना, m. a tassel.
 फुप्फा, m. husband of a paternal aunt.
 
@@ -4856,7 +4856,7 @@ p. 187
 फुर्त्तीला, adj. quick, active, nimble.
 फुलका, m. inflated, filled up; m. cake.
 फुलकारना, v. to inflate, swell out.
-फुलकारी f. flowered cloth.
+फुलकारी, f. flowered cloth.
 फुलकी, f. kind of cake.
 फुलझड़ी, f. a kind of fireworks.
 फुलवाड़ी, f. a flower-garden.
@@ -5260,7 +5260,7 @@ p. 192
 बनिज, m. trade, commerce.
 बनिया, m. a shop keeper, a merchant.
 बनियायन, f. wife of a merchant.
-बनी,f. a bride
+बनी, f. a bride.
 बनेटी, f. a torch lighted at both ends.
 बनैनी, f. wife of a shop-keeper.
 बनैला, adj. wild.
@@ -8002,7 +8002,7 @@ p. 226
 मीरासी, n. m. a singer by hereditary profession.
 मीसना, v. to grind, to rumple, crumple.
 मुंगिया, adj. green.
-मुंडचिरा, a sect of mendicants who extort alms by threatening to wound themselves; an extortioner.
+@ मुंडचिरा, a sect of mendicants who extort alms by threatening to wound themselves; an extortioner.
 मुंडमाल, n. m. a necklace of human heads worn by Mahadeo.
 मुंडी, n. m. a medicinal plant.
 मुंदना, v. to be shut, closed.
