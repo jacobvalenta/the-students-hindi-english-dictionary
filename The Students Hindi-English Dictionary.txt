@@ -10055,7 +10055,92 @@ p. 250
 विकार, m. change, sickness, disease.
 विकाल, m. twilight.
 विकाश, m. display, splendour.
-विकत, adj. averse, estranged.
+! विकृत, adj. averse, estranged.
+
+p. 251
+
+! विकृति, f. change of any kind, disease.
+विक्रम, m. heroism, prowess.
+विक्रमी, m. a lion, a hero.
+! विक्रय, m. sale, vending.
+वि़ख्यात, adj. known, famous.
+विख्याति, f. fame, notoriety.
+विगुण, adj. bad, worthless.
+विग्रह, m. the body, war.
+* विघात, m. obstacle, inpediment,
+* विघ्र, m. obstacle, inpediment,
+विचल, adj. unsteady, moving.
+विचक्षण, adj. clever, able, sensible.
+विचार, m. judgment, consideration.
+विचारित, adj. judged, discussed.
+विचित्र, adj. variegated, spotted.
+विच्छेद, m. separation, prevention.
+विजत, adj. private, lonely
+वितय, m. victory, conquest.
+विजया, f. hemp.
+विजाति, f. a different species.
+* विज्ञ, adj. skilful, able, clever.
+विज्ञान, m. knowledge, science.
+विज्ञापन, m. teaching, instruction.
+विड़म्बना, adj. afflicting, distressing.
+विड़म्बित, adj. low, poor, abject.
+विड़ाल, m. cat.
+वितण्डा, f. controversy, argument.
+वितरण, m. gift, donation, quitting.
+वितर्क, m. reasoning, discussion.
+वितल, m. Patal, one of the divisions of Patal.
+वितस्ति, f. a long span.
+! वितान, m. an awning, canopy.
+वितृष्ण, adj. content, satisfied.
+वित्त, m. wealth, substance, means.
+विदग्ध, adj. clever, shrewd, m. a libertine.
+विदा, m. taking leave, farewell.
+विदाई, f. separation.
+विदारण, m. tearing, breaking, dividing.
+विदिक, f. a point of the compass.
+विदित, adj. known, understood.
+विदिशा, see विदिक.
+विदिर्ण, adj. split, broken, torn.
+विदेश, m. a foreign country.
+विदेशी, m. foreign, a foreigner.
+विद्यमान, adj. being, being present.
+विद्या, f. knowledge, learning, science.
+विद्यार्थी, m. a student.
+विद्यालय, m. a school, college.
+विद्यावान, adj. learned.
+विद्युत, f. lightning.
+विद्रूम, m. coral.
+विद्दान, adj. itelligent, wise.
+विद्देष, m. enmity, hatred.
+विध, m. formula, rule; adj. kind, sort.
+विधवा, f. a widow.
+विधाता, m. Brahmā, providence.
+विधान, m. act, rule, precept.
+विधायक, m. a legislator, prescriber.
+विधि, m. a precept, rite, ordinance.
+विधुर, m. separation, agitation of mind, distress, danger.
+विधेय, adj. complaint, governable.
+विध्वंस, m. aversion, dislike.
+विनत, adj. bent, bowed, humble.
+विनती, f. humilty, entreaty, request.
+विनय, m. affability, reverence.
+विनष्ट, adj. lost, destroyed.
+विना, prep. without, except.
+विनाश, m. destruction.
+विनिपात, m. calamity.
+विनिमय, m. barter, exchange.
+विनीत, adj. modest, humble.
+विनीतात्मा, adj. well-behaved, humble.
+विनोद, m. eagerness, vehemence.
+विन्दु, m. a drop, a spot, a dot.
+विन्यास, m. assemblage, collection.
+विपत्ति, f. adversity, calamity, disaster.
+विपथ, m. a bad road.
+विपद, see विपत्ति.
+विपरीत, adj. reverse, opposite.
+विपर्थय, m. opposition, contrairiety.
+विपल, m. a moment, instant.
+विपक्ष, adj. opposed to, contrary; m. an opponent.
 
 p. 283
 
