@@ -12126,6 +12126,91 @@ p. 275
 स्मारक, adj. reminding.
 ! स्मृति, f. remembrance, memory, a code of laws.
 
+p. 276
+
+स्यानपन, m. art, cunning.
+स्यान, adj. cunning, artful, clever.
+स्यार, m. a jackal.
+स्रुवा, m. a ladle shaped like a hand with which ghi is poured into the fire for burnt offering.
+स्रोत, f. a current, stream.
+स्व, pron. own, self; m. wealth.
+स्वकीय, adj. own, peculiar.
+स्वव्छ, adj. pure, clear, clean.
+स्वच्छन्द, adj. unrestrained, independent.
+स्वजन, m. a distant kinsman.
+स्वतः, adv. spontaneously.
+स्वतन्त्र, adj. unrestrained, self-willed, absolute.
+स्वधर्म, m. nature, characteristic, own duty.
+! स्वप्त, m. a dream, dreaming.
+! स्वप्तदोष, n. m. a wet dream, devil's dream.
+स्वभाव, m. nature, property, disposition.
+स्वयं, pron. self, myself, etc.
+स्वयंभू, m. the self-sexistent.
+स्वयम्बर, m. choosing a husband.
+स्वर, m. an accent, a vowel, tone.
+! स्वरुप, m. peculiar form, nature, like.
+स्वर्ग, m. heaven.
+स्वर्गपताली, adj. squint eyed.
+स्वर्गबास होना, v. to go to heaven, to die.
+स्वर्गबासी, m. the dwellers in heaven.
+स्वर्ण, m. gold.
+स्वल्प, adj. very small, very few.
+स्वस्ति, f. a benedictory phrase.
+स्वस्तिवाचन, m. a religious rite.
+स्वांग, m. mimicry, acting, sham.
+स्वांग बन्ना, v. to make a gug of oneself.
+स्वांग बनाना, v. to get up  an entertainment, a mimic show.
+स्वांगी, m. an actor, mimic.
+स्वागत, m. welcome.
+स्वाती, f. the 15th lunar asterism.
+स्वाद, m. taste flavour.
+स्वादु, adj. sweet, agreeable, delicate.
+स्वाधीन, adj. independent, absolute.
+स्वान, n. m. a dog, hound.
+स्वाभाविक, adj. natural, inherent.
+! स्वामित्व, m. ownership.
+स्वामी, m. master, lord, husband.
+स्वार्थ, m. desire, object, aim, selfishness, self-interest.
+स्वार्थकरना, v. to make use of.
+स्वार्थिक, adj. having a literal meaning.
+स्वार्थी, adj. self seeking, interested.
+स्वास, m. breath, life.
+स्वहा, adj. burnt to ashes.
+स्वाहा करना, v. to burn to ashes.
+स्वीकार, m. promise, assent.
+स्वेच्छा, f. wilfulness.
+स्वेद, m. warmth, heat, sweat.
+स्वेदज, adj. engendered by heat.
+स्वैरण, m. an adulterer.
+स्वैरी, adj. self-willed.
+
+# ह
+
+ह, the 33rd Nāgarī consonant.
+हंकाना, v. to drive away.
+हंकार, m. cry, outcry, bawling.
+हंकारना, v. to bawl to, to drive away.
+हंडिया, n. f. a small earthen pot.
+हंफैल, adj. short winded.
+हंस, m. a goose, a gander.
+हंसना, v. to laugh.
+हंसमुख, adj. cheerful, merry, jolly.
+हंसा, m. laughter.
+हंसाई, f. ridicule.
+हंसाना, v. a. to make one laugh.
+हंसिया, m. a sickle.
+हंसी, n. f. a laugh, laughter.
+हंसी उड़ाना, v. to make fun or a jest of.
+हंसी करना, v. to laugh and jest.
+हंसीखुशी, adv. gladly.
+हंसी में, adv. in jest.
+हंसी में उड़ाना, v. to turn off with a joke.
+हंसी समझना, v. to take as a joke.
+! हंसुआ, n. m. a reaping hook.
+हंसुली, n. f. a collar (of gold or silver) worn around the neck as an ornament.
+हंसोड़, adj. facetious, jocular, merry.
+हकबकाना, v. to be confused, irresolute.
+
 p. 283
 
 क्षितिपाल, m. a king.
