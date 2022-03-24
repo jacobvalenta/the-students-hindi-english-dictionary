@@ -1515,87 +1515,6 @@ p. 21
 अक्षर, m. a letter of the alphabet.
 अक्षांश, m. a dregree of latitude or longitude.
 
-p. 128
-
-तरफना, v. to flutter, to palpitate.
-तरबूज, m. water-melon.
-तरल, adj. fickle, changeable.
-तरला, adj. lower, lowest; m. bottom.
-तरव, m. a tree.
-तरवर, m. any large tree.
-तरवरिया, m. a sword, a swordsman.
-तरवार, f. a sword.
-तरमना, v. to long for, to desire.
-तराई, f. a marshy ground, valley.
-तराजू, n. f. a pair of scales, balance.
-तरान, m. revenue.
-तराना, v. to cause to pass over, to save.
-तरी, f. a boat, water, moist land.
-तरु, m. a tree.
-तरुजीवन, m. the root of a tree.
-तरुण, m. a young man.
-तरुणाई, f. a youth, puberty.
-तरुणी, f. a young woman.
-तरेड़ा, m. the falling of water.
-तरेत, m. a buoy.
-तरैया, f. a star.
-तर्क, m. doubt, discussion.
-तर्कविद्या, f. science of logic.
-तर्कित, adj. doubtful, disputatious.
-तर्की, m. a logician.
-तर्कु, f. a spindle, distaff.
-तर्कुटी, f. a spindle, distaff.
-तर्कुल, m. a kind of fruit.
-तर्खा, adj. rapid (as a stream).
-त्रजन, m. anger, wrath.
-तर्जनी, f. the fore-finger.
-तर्जुमा, m. translation, interpretation, version.
-तर्तराता, adj. very greasy.
-तर्तराना, v. to bluster, to boast.
-तर्तराहट, f. bluster, boast.
-तर्पण, m. satisfaction.
-तर्ब, f. a musical tone.
-तर्राना, v. to grudge, to grumble.
-तर्रारा, m. rapidity, flow.
-तर्षण, m. thirst.
-तर्षित, adj. athirst, thirsty.
-तर्स, m. mercy, compassion.
-तर्साना, v. to cause to long, tantalize.
-तर्सों, adj. the 3rd day past or to come.
-तल, m. depth, bottom.
-तलक, adj. till.
-तलछट, f. dregs, refuse.
-तलना, v. to fry.
-तलपट, adj. ruined, destroyed.
-तलपना, see तरफना.
-तलमलाते फिरना, v. to be uneasy, restless, to walk about restlessly.
-तलमलाना, v. to tantalize, to tease.
-तलमली, n. f. restlessness, impatience.
-तलवरिया, f. a scimitar, swoardsman.
-तलवांसा, n. m. a blister on the sole of the foot.
-तलवार, f. a sword.
-तलवार खींचना, v. to draw or unsheathe the sword.
-तलवासना, v. to be word (the sole of the foot).
-तला, m. the sole of a boot or show, a stand or support; f. a fence worn by archers.
-तलातल, m. one of the divisions of hell.
-तलाव, m. a pond.
-तलावा, m. m. an advanced guard, a reconnoitring party.
-तलाश, n. f. searching one's person or house for stolen property.
-तलाशी लेना, v. to institute a search, to search the person or house.
-तली, f. the bottom of anything.
-तलुवा, m. sole of the foot.
-तले, f. below, beneath.
-तलेऊपर, adv. one above the other.
-तलैया, f. a small pond.
-तल्लिका, f. a key.
-तवा, f. an iron pan on which bread is baked.
-तवेकी बूंद, adj. lit. a drop on a baking pan, small, petty, trifling, transient, fleeting.
-तश्तरी, f. a small plate, saucer.
-तसर, m. a kind of coarse silk.
-तसला, m. a cooking vessel.
-तसवीर, n. f. a picture.
-तस्कर, m. a thief, a robber.
-
 p. 22
 
 अक्षि, m. an eye.
@@ -1883,6 +1802,87 @@ p. 25
 आध्यन, m. reflection, thought.
 आध्यापक, m. a spiritual teacher, a teacher.
 आन, adj. other, different; f. desire, wish, pride.
+
+p. 128
+
+तरफना, v. to flutter, to palpitate.
+तरबूज, m. water-melon.
+तरल, adj. fickle, changeable.
+तरला, adj. lower, lowest; m. bottom.
+तरव, m. a tree.
+तरवर, m. any large tree.
+तरवरिया, m. a sword, a swordsman.
+तरवार, f. a sword.
+तरमना, v. to long for, to desire.
+तराई, f. a marshy ground, valley.
+तराजू, n. f. a pair of scales, balance.
+तरान, m. revenue.
+तराना, v. to cause to pass over, to save.
+तरी, f. a boat, water, moist land.
+तरु, m. a tree.
+तरुजीवन, m. the root of a tree.
+तरुण, m. a young man.
+तरुणाई, f. a youth, puberty.
+तरुणी, f. a young woman.
+तरेड़ा, m. the falling of water.
+तरेत, m. a buoy.
+तरैया, f. a star.
+तर्क, m. doubt, discussion.
+तर्कविद्या, f. science of logic.
+तर्कित, adj. doubtful, disputatious.
+तर्की, m. a logician.
+तर्कु, f. a spindle, distaff.
+तर्कुटी, f. a spindle, distaff.
+तर्कुल, m. a kind of fruit.
+तर्खा, adj. rapid (as a stream).
+त्रजन, m. anger, wrath.
+तर्जनी, f. the fore-finger.
+तर्जुमा, m. translation, interpretation, version.
+तर्तराता, adj. very greasy.
+तर्तराना, v. to bluster, to boast.
+तर्तराहट, f. bluster, boast.
+तर्पण, m. satisfaction.
+तर्ब, f. a musical tone.
+तर्राना, v. to grudge, to grumble.
+तर्रारा, m. rapidity, flow.
+तर्षण, m. thirst.
+तर्षित, adj. athirst, thirsty.
+तर्स, m. mercy, compassion.
+तर्साना, v. to cause to long, tantalize.
+तर्सों, adj. the 3rd day past or to come.
+तल, m. depth, bottom.
+तलक, adj. till.
+तलछट, f. dregs, refuse.
+तलना, v. to fry.
+तलपट, adj. ruined, destroyed.
+तलपना, see तरफना.
+तलमलाते फिरना, v. to be uneasy, restless, to walk about restlessly.
+तलमलाना, v. to tantalize, to tease.
+तलमली, n. f. restlessness, impatience.
+तलवरिया, f. a scimitar, swoardsman.
+तलवांसा, n. m. a blister on the sole of the foot.
+तलवार, f. a sword.
+तलवार खींचना, v. to draw or unsheathe the sword.
+तलवासना, v. to be word (the sole of the foot).
+तला, m. the sole of a boot or show, a stand or support; f. a fence worn by archers.
+तलातल, m. one of the divisions of hell.
+तलाव, m. a pond.
+तलावा, m. m. an advanced guard, a reconnoitring party.
+तलाश, n. f. searching one's person or house for stolen property.
+तलाशी लेना, v. to institute a search, to search the person or house.
+तली, f. the bottom of anything.
+तलुवा, m. sole of the foot.
+तले, f. below, beneath.
+तलेऊपर, adv. one above the other.
+तलैया, f. a small pond.
+तल्लिका, f. a key.
+तवा, f. an iron pan on which bread is baked.
+तवेकी बूंद, adj. lit. a drop on a baking pan, small, petty, trifling, transient, fleeting.
+तश्तरी, f. a small plate, saucer.
+तसर, m. a kind of coarse silk.
+तसला, m. a cooking vessel.
+तसवीर, n. f. a picture.
+तस्कर, m. a thief, a robber.
 
 p. 129
 
