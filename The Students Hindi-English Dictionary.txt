@@ -2699,6 +2699,85 @@ p. 37
 उस्ताना, v. to light, to kindle.
 उस्तुरा, m. a razor.
 
+p. 38
+
+उहरना, v. to subside (as a flood).
+उहाड़, m. a case, cover, sheath.
+उहार, m. a curtain or covering for a cart &c. or for privacy of women.
+
+# ऊ
+
+ऊंघ, f. nodding, sleepiness.
+ऊंघना, v. to nod, to doze, to sleep.
+ऊंघाई, f. drowsiness, sleepiness.
+ऊंचनीच, f. high and low, higher and lower classes.
+ऊंचा, adj. high, tall, steep, loud.
+ऊंचाई, f. height, steepness.
+ऊंचा हाथ रहना, v. to have the upper hand.
+ऊंट, m. a camel.
+ऊंटकटारा, m. a thistle eaten by camels.
+ऊंटनी, f. a female camel.
+ऊंहीं, adv. exactly so, thus.
+ऊक, f. error, slip.
+ऊकचुक, f. accidental mistake, error.
+ऊख, f. sugar-cane.
+ऊखराज, m. the first day on which the seed of sugar-can is sowed is attended with festivities.
+ऊखलि, f. a large wooden mortar.
+ऊखाड़ी, f. a field of sugar-can.
+ऊटपटङ्ग, m. nonsense, absurdity; adj. poor, helpless.
+ऊठा, f. multiplication table of 3½ times.
+ऊण, f. wool.
+ऊत, m. one who dies without issue, an unmarried man, a blockhead.
+ऊदविलाव, m. an otter.
+ऊदा, adj. brown coloured.
+ऊधम, m. noise, disturbance, rebellion.
+ऊन, f. wool; adj. less, defective.
+ऊनी, adj. made of wool, woollen.
+ऊपर, adv. above, on upon over; m. top, outside, exterior.
+ऊपर आना, v. to come up, to rise, to emerge.
+ऊपर का दम भरना, to breathe one's last.
+ऊपरी, adj. outward, spacious; m. stranger, foreigner.
+ऊवट, adj. steep, impassable, inaccessible.
+ऊभ, m. oppressive heat, langour.
+ऊयी,f. a white ant, termite.
+! ऊरू, m. the thigh.
+ऊर्णनाभ, m. a spider.
+ऊर्णा, m. wool, fur, felt.
+! ऊर्व्व्ध, adj. high, elevated, above.
+! ऊर्व्व्धपुंड़, m. a tilak on the forehead of worshippers of Vishṇu.
+! ऊर्व्व्धबाहु, adj. keeping the arms raised up, as when under a vow.
+! ऊर्व्व्धरेता, m. an order of mendicants.
+! ऊर्व्व्धसांस, m. heavy or deep breathing, gasp.
+! ऊर्व्धक, m. flatulency.
+ऊर्म्मि, m. a wave, a billow, a whim.
+! ऊलूश्रा, f. a kind of grass.
+ऊषण, m. black pepper.
+ऊषर, m. barren or saline soil.
+ऊसर, adj. barren, sterile; m. sterile land.
+ऊहं, intj. no matter, never mind.
+ऊह, m. reasoning.
+ऊहुं, intj. no, never.
+
+# ऋ
+
+ऋक्, m. name of the first or Rigveda.
+ऋवा, f. a śloka or mantra of the Rigveda, an incantation.
+ऋजु, adj. straight, upright, sincere.
+ऋण, m. debt, minus (in Algebra).
+ऋणमार, m. one who does not pay his debts.
+* ऋणिया, m. f. a debtor.
+ऋतु, f. season, weather, the menses.
+ऋतुमती, f. a woman during menstruation.
+ऋतुराज, m. the spring season.
+! ऋतुस्नान, m. bathing after the menses.
+ऋते, adj. except, besides, without.
+ऋत्विक, m. a family, priest.
+ऋद्धि, f. wealth, property, a medicinal plant.
+ऋषभ, m. a bull; adj. excellent, great.
+ऋषि, m. a sage, a saint, a sacred writing.
+ऋषीश, m. chief of the Rishis.
+ऋक्ष, m. a bear, a star, constellation.
+
 p. 128
 
 तरफना, v. to flutter, to palpitate.
@@ -12930,8 +13009,8 @@ p. 252
 
 p. 253
 
-! विआन्त, adj. calm, composed.
-! विआम, m. rest, repose, pause.
+विश्रान्त, adj. calm, composed.
+विश्राम, m. rest, repose, pause.
 विश्लेष, m. separation, disunion.
 विश्व, adj. all, universal; m. the universe.
 विश्वम्भर, m. all sustaining.
