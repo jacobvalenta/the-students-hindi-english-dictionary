@@ -3025,6 +3025,85 @@ p. 41
 कंस, m. name of an ancient king of Mathurā.
 ककड़ी, f. a kind of cucumber.
 
+p. 42
+
+ककना, m. a kind of bracelet.
+ककनी, f. a kind of ornament worn about the wrist.
+ककरेजा, m. purple colour.
+ककरोन्दा, m. a particular fruit.
+ककहरा, m. the alphabet.
+ककुद्, m. ensign of royalty, a peak.
+ककुभ, f. a point of the compass, a region.
+ककोरना, v. to scrape, to hollow, to excavate.
+कखरी, f. the armpit.
+कखौरी, f. a tumour in the armpit.
+कगर, m. edge, corner, border.
+कङ्क, m. name of a bird, heron.
+कङ्कड़ की सड़क, f. a metalled road.
+कङ्कड़ पत्थर, m. rubbish.
+कङ्कण, m. a bracelet for the wrist.
+कङ्कर, m. a nodule of limestone.
+कङ्करी, f. a small round pebble, a small piece of any thing.
+कङ्कालिन, f. a kind of witch, a hag.
+कङ्केला, adj. stony, gravelly.
+कङ्कोल, m. a kind of gourd.
+कङ्गन, m. a bracelet.
+कङ्गना, m. a string tied round the wrist at marriage.
+कङ्गनी, f. a cornice, small grain, millet.
+कङ्गरोड़, m. the spine, a water-fowl.
+कङ्गलता, f. penury, poverty.
+कङ्गला, m. a beggar.
+कङ्गाल, adj. poor, miserable, friendless.
+कङ्गाल कर देना, v. a. to make poor, to reduce to beggary.
+कङ्गूड़ी, f. the lobe of the ear.
+कङ्गूराm. the peak of a mountain, pinnacle.
+कङ्गूवा, m. a comb for the hair.
+कङ्चा, m. a comb for the hair.
+कङ्ची, f. a comb.
+कङ्वी करना, v. a. to comb the hair.
+कङ्वी चोटी, f. dressing or braiding the hair.
+कच, m. hair.
+कचक, f. pain, limp.
+कचकच, m. argument, debate.
+कचकड़ा, m. tortoise shell.
+कचकना, v. to strain, to sprain.
+कचकाना, v. to cause a sprain, etc.
+कचकेला, m. a kind of plantain.
+कचकैयां, f. a shove, push, stumble, knock.
+कचनार, m. a kind of tree.
+कचपच, f. a crowd; adj. close, thick.
+कचपचिया, m. the pleiades.
+कचपन, m. imperfection, rawness, simplicicity.
+कचबच, m. pl. infants, children.
+कचमच, f. babble, nonsense.
+कचरी, m. name of a fruit.
+कचला, m. clay.
+कचलोन, m. a kind of salt.
+कचलोहिया, f. untempered steel.
+कचहरी, f. a court of justice, an office.
+कचहरी लगाना, v. a. to collect a crowd, to make a noise.
+कचाई, f. imperfection, rawness, indigestion.
+कचाल, m. dispute, wrangling, haggling.
+कचालू, m. an esculent root.
+कचिया, m. a reaping hook or sickle.
+कचियाना, v. to be frightened.
+कचियाहट, f. abhorrence, timidity.
+कचुमर, m. a kind of pickle.
+कचूर, m. a swelling root.
+कचेरा, m. the name of a tribe.
+कचौरी, f. a kind of pastry filled with bruised pulse.
+कच्चा, adj. unripe, crude, raw, silly, inexperienced.
+कच्चू, m. a certain plant.
+कच्छप, m. a tortoise, a turtle.
+कछ, m. a tortoise, a turtle.
+कछना, m. a coth worn round the thighs; v. to be washed.
+कछनी, f. a small kind of breeches.
+कछलंपट, adj. lewd, dissolute, libertine.
+कछवार, f. a sub-division of the Kurmi tribe.
+कछवाहा, m. a tribe of Rajputs.
+कछार, m. the edge of a mountain.
+कछारना, v. to wash, to rinse.
+
 p. 128
 
 तरफना, v. to flutter, to palpitate.
@@ -13568,7 +13647,7 @@ p. 256
 शासन, m. an order, edict, a writing, deed, punishment.
 शासनीय, adj. to be governed.
 शा्स्ति, f. a command, order.
-! शास्त्र m. scripture, scrience, literature.
+शास्त्र, m. scripture, science, literature.
 ! तर्कशास्त्र, n. m. deductive science.
 ! धर्म्मशास्त्र, n. m. the Hindú civil and ecclesiastical code.
 ! न्यायशास्त्र, n. m. logic.
@@ -13808,7 +13887,7 @@ p. 259
 संहति, f. heap, collection, union.
 संहार, m. loss, destruction.
 संहिता, m. compilation, compendium.
-संक्षेप, m. abridgement, concisesness.
+! संक्षेप, m. abridgement, concisesness.
 सइयां, n. m. husband.
 सकत, f. power, ability.
 सकन, m. co-secant.
