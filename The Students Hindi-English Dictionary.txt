@@ -1,6 +1,11 @@
+title: The Students Hindi-English Dictionary
+author: Unknown
+language: hi
+to_language: en-us
+
 p. 1
 
-अ, The first letter of the Devanāgarī alphabet, pronounced as u in up or o in come; a privative or negative inseparable particle like in or un in English words, as अकारण. When prefixed to words beginning with a vowel, it is followed by न, for the sake of euphony, as अनादि. An interjection expressive of pity.
+अ, The first letter of the Devanāgarī alphabet, pronounced as u in up or o in come; a privative or negative inseparable particle like in or un in English words, as अकारण. When prefixed to words beginning with a vowel, it is followed by न, for the sake of euphony, as अनादि; An interjection expressive of pity.
 अऊत, m. a man who dies without issue, an unmarried man, a blockhead.
 अंतड़ी, f. entrails, bowels.
 अंतड़ी जलना, v. a. to be very hungry.
@@ -98,7 +103,7 @@ p. 2
 अग्र, m. the fore part of anything; adj. prior, first, chief.
 अग्रगामी, m. a forerunner, predecessor.
 अग्र ग्रास, m. the first morsel.
-अग्रज, m. an elder brother; frist-born.
+अग्रज, m. an elder brother; first-born.
 अग्रणी, m. one who goes before, a leader, guide.
 अग्रपश्चात्, m. hesitation, wavering.
 अग्रसर, m. a chief, leader, messenger.
@@ -141,7 +146,7 @@ p. 3
 अङ्गरखा, m. an upper garment, coat, jacket.
 अङ्गराग, m. perfuming the body, amearing it with enguents of sandal.
 अङ्गरेज, m. an Englishman.
-अङ्ग लगाना, v a. to embrace, clasp.
+अङ्ग लगाना, v. a. to embrace, clasp.
 अङ्गविद्या, f. physiology, the science which treats of human organism.
 अङ्गमिहरी, f. the chill which precedes fever, ague.
 अङ्गा, m. a long coat used by men.
@@ -169,7 +174,7 @@ p. 3
 अङ्गोछा, m. a towel, a handkerchief.
 अङ्गोरा, m. a midge, gnat.
 अङ्गौंगा, m. perquisites from thethreashing floor to Brahmans.
-अङ्गौरिया,  m. the use of plough in place of wages in kind.
+अङ्गौरिया, m. the use of plough in place of wages in kind.
 ! अङचड़ा, m. a large ring of brass or other metal, worn on the toe by women of low caste.
 अच, m. (in gram.) a vowel.
 अचक, adj. suddenly, unexpectedly, unawares; adj. brimful, boundless.
@@ -306,7 +311,7 @@ p. 5
 अठाइस, adj. twenty-eight.
 अठानवे, adj. ninety-eight.
 अठारह, adj. eighteen.
-अठारहवां,  adj. eighteenth.
+अठारहवां, adj. eighteenth.
 अठावन, adj. fifty-eight.
 अठासी, adj. eighty-eight.
 अठेल, not movable, irrefragable, unanswerable.
@@ -330,7 +335,7 @@ p. 5
 
 p. 6
 
-अड़ाना,  v. to cause to stop, check.
+अड़ाना, v. to cause to stop, check.
 अड़ानी, f. a large fan, a parasol.
 अड़िग, adj. see अटल,
 अड़ीधड़ी, f. cares and affairs, troubles.
@@ -363,7 +368,7 @@ p. 6
 अण्डस, f. deficiency of room, narrowness.
 अण्डा, m. an egg; -denā, to lay eggs.
 अण्डाकार, adj. oval, elliptical.
-अण्डा ढीला, होना, v. to be pulled down, wasted.
+अण्डा ढीला होना, v. to be pulled down, wasted.
 अण्डा सेना, v. to sit on eggs, hatch.
 अण्डियाना, v. to be with young (a bird or reptile).
 अण्डी, m. a kind of cloth.
@@ -466,7 +471,7 @@ p. 7
 अद्योत, adj. without splendour, not shining.
 अदौरी, f. a kind of food.
 अद्धा, m. a half measure, a pint.
-अद्धी f. half a damri; a fine cloth.
+अद्धी, f. half a damri; a fine cloth.
 अद्भुत, adj. surprising, wonderful.
 अद्मर, adj. gluttonous, greedy.
 अद्य, adv. to-day, now.
@@ -551,7 +556,7 @@ p. 9
 अधीनता, f. obedience, subjection, slavery.
 अधीर, adj. confused, perflexed, impatient.
 अधीरज, m. perplexity, unsteadiness.
-अधीरता, f perplexity, confusion, impatience.
+अधीरता, f. perplexity, confusion, impatience.
 अधीश्वर, m. an emperor, a sovereign.
 अधुड़ा, adj. half-done, defective, unfinished.
 अधुना, adj. recently, lately, just now.
@@ -701,8 +706,8 @@ p. 11
 अनीति, f. injustice, impropriety, ill-conduct.
 अनीश्वरवाद, f. atheism.
 अनीह, adj. indolent, careless.
-अनु, (a prefix) after, according to.
-! अनुकम्मा, f. tenderness, pity.
+अनु, prefix. after, according to.
+अनुकम्मा, f. tenderness, pity.
 अनुकरण, m. imitation.
 अनुकर्षण, m. attraction, drawing.
 अनुकूल, m. coinciding, friendly to, aiding.
@@ -844,7 +849,7 @@ p. 13
 अन्धा करना, v. a. to put one's eyes out, to blindfold.
 अन्धा तारा, m. the planet Neptune.
 अन्धा दरबार, m. a bad government, maladministration.
-अन्धाधुंध,  adj. indiscriminate, rash, foolish; m. anarchy, misgovernment; adv. excessively, blindly, without discrimination.
+अन्धाधुंध, adj. indiscriminate, rash, foolish; m. anarchy, misgovernment; adv. excessively, blindly, without discrimination.
 अन्धापन, f. blindness, short-sightednigh.
 अन्धा बनाना, v. a. to befool, to deceive.
 अन्धा होना, v. to become blind, to lose sight (under the influence of passion &c.)
@@ -966,7 +971,7 @@ p. 14
 अपशकुन, m. a bad omen.
 अपशब्द, m. common or vulgar speech.
 अपशरण, m. a removing, departure.
-अपसरा, f a nymph, fairy.
+अपसरा, f. a nymph, fairy.
 अपसव्य, adj. right (not left), right side of the body.
 अपस्मार, m. epilepsy, falling sickness.
 अपहनन, m. murder, slaughter.
@@ -1084,7 +1089,7 @@ p. 16
 अभिभूत, f. disrespect, disgrace, humiliation.
 अभिमत, adj. wished, desired, accepted.
 अभिमान, m. pride, arrogance.
-अभिमानो, adj, proud, haughty.
+अभिमानो, adj. proud, haughty.
 अभिमुख, adj. present, in front of, towards.
 अभिरुचि, f. ambition, desire in general.
 अभिलाषा, m. wish, desire.
@@ -1500,7 +1505,7 @@ p. 21
 अहिवात, f. coverture.
 * अहिवाती, f. a feme-covert, a woman whose husband is living, opp. to window.
 अहीर, m. a cowherd. 
-अहे, and interj. O! halloo!
+अहे, interj. O! halloo!
 अहेतुक, adj. causeless. 
 अहेर, f. prey, game, chase.
 अहेरिया, m. a hunter, sportsman.
@@ -1792,7 +1797,7 @@ p. 25
 आधि, m. mental anxiety, calamity.
 ! आधिक्य, m. excess, abundance.
 आधिनता, f. submission, dependence.
-आधिपत्य, m sovereignty, lordship.
+आधिपत्य, m. sovereignty, lordship.
 आधीन, adj. subject, dependent, obedient.
 आधुनिक, adj. recent, modern.
 आधूत, adj. agitated, shaken.
@@ -1875,7 +1880,7 @@ p. 26
 आमान्न, m. raw rice or grain.
 ! आमाशय, m. diarrhæa.
 आमिष, m. flesh, enjoyment, lust.
-आमूल, adj from the root, radically.
+आमूल, adj. from the root, radically.
 आमोद, m. fragrance, odour.
 आम्बर, f. amber.
 ! आम्र, m. the mango tree.
@@ -2340,7 +2345,7 @@ p. 32
 उत्तमाङ्ग, m. the head.
 उत्तर, m. an answer, the north, latter, behind, northern.
 
-p. 33.
+p. 33
 
 उत्तरपक्ष, m. reply to an argument, minor proposition in a syllogism.
 उत्तर पश्चिम, adj. north-west.
@@ -2681,7 +2686,7 @@ p. 37
 उषा, m. early, dawn, day-break.
 उष्द्र, m. a camel.
 उष्ण, adj. hot, warm; m. heat, warmth.
-उष्णा,  m. consumption, cleansed by scalding.
+उष्णा, m. consumption, cleansed by scalding.
 ! उष्णीष, m. a turban, diadem.
 उष्मा, f. warmth, wrath.
 उसकाना, v. a/ to move, to excite (the wick of a lamp).
@@ -2754,9 +2759,9 @@ p. 38
 ऊषण, m. black pepper.
 ऊषर, m. barren or saline soil.
 ऊसर, adj. barren, sterile; m. sterile land.
-ऊहं, intj. no matter, never mind.
+ऊहं, interj. no matter, never mind.
 ऊह, m. reasoning.
-ऊहुं, intj. no, never.
+ऊहुं, interj. no, never.
 
 # ऋ
 
@@ -2881,7 +2886,7 @@ p. 40
 एतावन्मात्र, adj. only so much.
 एरण्ड, m. the castor oil plant.
 एराफेर, m. exchange, barter.
-एरी, (an interj.) O! (in addressing women).
+एरी, interj. O! (in addressing women).
 एलवा, m. aloes.
 एला, f. small cardarmoms.
 एलोक, m. this world.
@@ -3363,7 +3368,7 @@ p. 46
 कमठ, m. a toroise, turtle.
 कमठा, m. a bow made of bamboo. 
 कमढ़ा, m. a kind of gourd.
-कमण्डल,  m. a water-pot used by ascetics.
+कमण्डल, m. a water-pot used by ascetics.
 कमनीय, adj. beautiful, pleasing.
 कमर, f. the loins.
 कमरख, m. a kind of fruit.
@@ -3490,7 +3495,7 @@ p. 47
 कर्म्म ठोकना, v. to mourn one's fate.
 कर्म्म फूटना, v. to have bad luck.
 कर्म्मभोग, adj. suffering the consequence of actions.
-कर्म्मयुग, mm. the present age, the iron age.
+कर्म्मयुग, m. the present age, the iron age.
 कर्म्मविपाक, m. results of actions.
 
 p. 48
@@ -3573,7 +3578,7 @@ p. 48
 
 p. 49
 
-कल्पतरु, 	m. name of a fabulous tree.
+कल्पतरु, m. name of a fabulous tree.
 कल्पना, m. plan, scheme, contrivance.
 कलपान्त, m. the end or destruction of the world.
 कल्पित, adj. artificially made or produced.
@@ -4519,7 +4524,7 @@ p. 135
 त्वरा, f. haste, speed.
 त्वरित, m. quick, swift.
 
-थ
+# थ
 
 * थ, the 17th Nāgarī consonant
 थंब, m. a pillar, post.
@@ -4635,7 +4640,7 @@ p. 137
 थोपी, f. a box, thump.
 थोवड़ा, n. m. a muzzle, the mouth (in contempt)
 
-द
+# द
 
 * द, the 18th Nāgarī consonant.
 दंश, m. a gadfly, a tooth.
@@ -5486,7 +5491,7 @@ p. 147
 द्वैदीकरण, m. making two, separating.
 ! द्व्यरथ, adj. having two meanings.
 
-ध
+#ध
 
 ध, the 19th Nāgarī consonant.
 धंधला, m. deception, trick.
@@ -5829,7 +5834,7 @@ p. 151
 ध्वजी, m. a standard bearer.
 ध्वनी, m. a sound.
 
-न
+# न
 
 न, the 20th Nāgarī consonant.
 नंग, n. m. disgrace, infamy.
@@ -6304,7 +6309,7 @@ p. 157
 निठुराई, f. cruelty, obstinacy.
 निडर, adj. fearless.
 निढाल, adj. still, motionless, weak, faint.
-नित, see नित्या, adv. ever, continually.
+नित, see नित्या; adv. ever, continually.
 नितउठ, adv. constantly.
 नितनेम, n. m. daily religious service.
 नितान्त, adj. much, excessive.
@@ -6676,7 +6681,7 @@ p. 162
 नौगरी, f. a wrist ornament.
 नौची, f. a girl kept by a bawd.
 नौछावर, m. an offering, sacrifice.
-नौज, intj. God forbid, by no means, never.
+नौज, interj. God forbid, by no means, never.
 नौढ़ना, v. to bend, be bedient.
 नौना, v. to bend, be bedient.
 नौबत, f. pitch, musical instuments.
@@ -6698,7 +6703,7 @@ p. 162
 न्यून, adj. vile, wicked.
 न्यूनता, f. deficiency, inferiority.
 
-प
+# प
 
 प, the 21st Nāgarī consonant.
 पंवार, m. name of a plant.
@@ -7573,7 +7578,7 @@ p. 173
 पारस पत्थर, m. the phiosopher's stone.
 पारसाल, m. last year.
 पारसी, m. a Persian, Persian language.
-पार होना, v to be carried across, to reach the shore.
+पार होना, v. to be carried across, to reach the shore.
 पारा, m. quicksilver.
 पारापार, m. the two banks of a river.
 पारायण, m. entirety, completeness.
@@ -8143,7 +8148,7 @@ p. 179
 p. 180
 
 पोआना, v. to warm by the sun, to bask.
-पोईस, intj. ho! holla!
+पोईस, interj. ho! holla!
 पोखर, m. a tank, pond.
 पोट, f. a bundle, package.
 पोटला, m. a large bundle.
@@ -8510,7 +8515,7 @@ p. 184
 प्रियतम, adj. dearest.
 प्रियवादा, adj. pleasant spoken, flattering.
 प्रिया, adj. beloved, dear.
-प्रीत,  adj. kind, affectionate.
+प्रीत, adj. kind, affectionate.
 प्रीतम, adj. dearest, most beloved; n. one held dear.
 प्रीति, f. love, regard.
 प्रेत, m. a ghost, goblin, fiend.
@@ -9024,7 +9029,7 @@ p. 190
 बड़ाना, v. to talk in sleep.
 बड़ापा, m. grandeur, dignity.
 बड़ी, f. a dish made of pulse.
-बड़ी बात, intj. thank God, thank Heaven.
+बड़ी बात, interj. thank God, thank Heaven.
 बड़ूखा, m. a kind of sugar-cane.
 बड़े मियां, m. an old man, Sir!
 बड़े लोग, m. great men, predecessors.
@@ -9061,7 +9066,7 @@ p. 191
 बताना, v. to shew, explain, to tell.
 बतास, f. wind, air.
 बतासा, m. kind of sweetmeat.
-बतिया, n. m green unripe fruit.
+बतिया, n. m. green unripe fruit.
 बतियाई, f. conversation.
 बतियाना, v. to speak, talk.
 बतूनी, m. tattler, idle talker.
@@ -9594,7 +9599,7 @@ p. 197
 बापड़ा, adj. helpless, poor.
 बापरौ, adj. helpless, poor.
 बापदादा, n. m. fore-fathers.
-बापबाप, intj. a cry for help, quarter.
+बापबाप, interj. a cry for help, quarter.
 बाफ, m. steam, vapour.
 बाफता, n. m. a kind of silk cloth.
 बाबनी, f. a snake's hole.
@@ -10667,7 +10672,7 @@ p. 211
 भाड़झोकना, v. to supply fuel for the fire of a parching oven, to take up any mean occupation.
 भाड़ में डालना, v. to cast to the dogs.
 भाड़ा, m. hire, fare.
-भाड़ा, फोड़ना, v. a. to disclose a secret.
+भाड़ा फोड़ना, v. a. to disclose a secret.
 भाण्ड, m. an earthen pot, a mimic.
 भाण्डना, v. to abuse.
 भाण्डार, see भण्डार.
@@ -12149,7 +12154,7 @@ p. 229
 मेंड़, f. a bank, dame, dike.
 मेंडक, m. a frog.
 मेंडा, f. brim of a well.
-मेंड़िपाना v. to enclose with a bank.
+मेंड़िपाना, v. to enclose with a bank.
 मेंढा, m. a ram.
 मेंमें, n. f. the bleating of a goat.
 मेंला लगना, v. to be assembled (a fair).
@@ -12797,7 +12802,7 @@ p. 237
 रामदुहाई, intj. by God.
 रामनौमी, n. f. a Hindú festival, the birth-day of Rām.
 रामफल, n. m. annona reticulata.
-रामभजन n. m. hymns addressed to Rām.
+रामभजन, n. m. hymns addressed to Rām.
 रामराम, n. f. a form of salutation, intj. good heavens.
 रामरस, m. salt.
 रामलीला, n. f. a national heroic play.
@@ -13720,7 +13725,7 @@ p. 248
 लौं, prep. till, to, up to.
 लौंग, f. a clove.
 लौंजी, n. f. a sauce.
-कलौंजा n. f. a sauce.
+कलौंजा, n. f. a sauce.
 लौंडा, m. a boy, a slave.
 लौंडिया, f. a girl, slave-girl.
 लौंद, n. an intercalary month.
@@ -14826,7 +14831,7 @@ p. 261
 सत्तरहवां, adj. seventeenth.
 सत्तरहवीं, n. f. an obsequial right performed on the seventeenth day after decease.
 सत्ता, f. being, truth, reality.
-सत्ताईस adj. twenty-seven.
+सत्ताईस, adj. twenty-seven.
 सत्तानवे, adj. ninety-seven.
 सत्तावन, adj. fifty-seven.
 * सतासा, adj. eighty-seven.
@@ -15516,7 +15521,7 @@ p. 269
 सींगी लगाना, v. to cup.
 सींचना, v. to water, irrigate.
 सींचाई, f. price paid for irrigating.
-सींची f. season for watering fields.
+सींची, f. season for watering fields.
 
 p. 270
 
@@ -15848,7 +15853,7 @@ p. 273
 
 p. 274
 
-सेंधना,v. to mine.
+सेंधना, v. to mine.
 सेंध लगाना, v. to break into a house or commit house breaking.
 सेंधा, m. rock-salt.
 सेंधिया, m. poison, a house breaker.
